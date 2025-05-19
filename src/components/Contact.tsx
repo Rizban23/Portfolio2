@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <section id="contact" className="bg-gray-100 py-20 px-6 text-center">
       <h2 className="text-3xl font-bold mb-6">Contact Me</h2>
-      <p className="text-lg mb-4">I'd love to hear from you! Feel free to reach out.</p>
+      <p className="text-lg mb-4">Let&apos;s talk. I love to hear from you! Feel free to reach out.</p>
 
       <div className="space-y-4 text-left max-w-md mx-auto">
         <div className="flex items-center gap-3">
